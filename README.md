@@ -29,5 +29,3 @@ lunch twrp_r8q-eng
 make recoveryimage
 
 ```
-
-Kernel source: https://github.com/BeneficialCode/android_device_samsung_r8q
